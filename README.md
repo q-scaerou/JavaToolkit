@@ -9,24 +9,24 @@ without importing them.
 ## Summary
 
 1. Arrays utils
-* print()
+* `print()`
 ** Display the array as a String 
 ** ex. : [x, x, x, ...]
-* sort()
+* `sort()`
 ** Sort the value by ascending order
 ** ex. : [4, 2, 1] = [1, 2, 4]
-* printSorted()
+* `printSorted()`
 ** Display the array sorted as a String
 
 2. File
 * File.java
-** read()
-** Display the content of a file in the console
++ `read()`
++ Display the content of a file in the console
 * ReadWords.java
-** Display selected words from the ubuntu mate 20 dictionary based on length
++ Display selected words from the ubuntu mate 20 dictionary based on length
 
 3. Time
-* StopWatch
+* StopWatch.java
 ** Allows to start and stop a StopWatch to calculate the elapsed time
 
 4. Trigonometry
